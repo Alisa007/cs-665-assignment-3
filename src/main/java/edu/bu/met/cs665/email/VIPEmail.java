@@ -4,7 +4,7 @@
  * Date: 10/31/2023
  * File Name: VIPEmail.java
  * Description: 
- * This class represents the email template for Vip customers. 
+ * This class represents the email template for VIP customers. 
  * It implements the `EmailTemplate` interface and provides the specific implementation 
  * for generating an email message tailored to VIP customers.
  */
